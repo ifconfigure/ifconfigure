@@ -2,7 +2,7 @@
 - 🎵 视频号音乐博主
 - 🏹 竞技反曲爱好者
 - 📪 Telegram重度用户
-- 📫 How to reach me ...
+- 📫 Golang/PHP开发者
 - 😄 哈哈嗨
 
 <!---
